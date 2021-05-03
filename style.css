@@ -1,0 +1,28 @@
+.container{
+    background-color: #faebd7;
+    height: 15px;
+    padding: 20px;
+    margin:25px;
+}
+.nav-bar{
+    padding:15px;
+    text-decoration: none;
+    color: #000000;
+}
+a:link{
+    color:#000000;
+
+}
+a:visited{
+    color:#33bb33;
+    
+}
+a:hover {
+    color: red;
+  }
+  
+  /* selected link */
+  a:active {
+    background-color: rgb(108, 103, 131);
+  }
+  
