@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(193, 221, 165);
+}
+
+.col-1{
+    float:left;
+    width:18%;
+}
+.row:after{
+    content:"";
+    display:table;
+    clear: both;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.label_text{
+    padding: 500px;
+}
+.asterik{
+    color:red;
+}
+.container{
+    /*margin-left:30%;*/
+    border:thin solid rgb(27, 29, 28);
+    padding: 20px;
+    width:50%;
+    align:center;
+    
+}
+.col-2{
+    float:left;
+    width:25%;
+}
